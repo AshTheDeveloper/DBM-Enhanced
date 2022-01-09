@@ -10,8 +10,11 @@ Secondly, Place the **Start.js** file in your bot's directory, Like this.
 
 ## How To Install
 
-Instead of using **Node Bot.js** in cmd, Use **Node Start.js** and let the script install/check/update the modifications.
+Instead of using **Node Bot.js** in cmd, Use **Npm i download** since that's a required library by **DBM-E**
+![image](https://user-images.githubusercontent.com/97385822/148695309-59dca530-bc02-4b42-9c07-d28421a98821.png)
 
+
+Once that is done, Use **Node Start.js** and let the script install/check/update the modifications.
 ![image](https://user-images.githubusercontent.com/97385822/148692706-570eb535-16b8-406b-b3ca-657598f50015.png)
 
 ## How To Use
