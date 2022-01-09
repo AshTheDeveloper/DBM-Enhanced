@@ -12,6 +12,3 @@ Secondly, Place the **Start.js** file in your bot's directory, Like this.
 
 Instead of using **Node Bot.js** in cmd, Start your bot with **Node Start.js** and let the script do it's magic
 ![Empremix [DG]](https://cdn.discordapp.com/attachments/929393865981587496/929688634381201459/unknown.png)
-
-## Support/Help
-Consider joining our [**Support Server**](https://discord.gg/HA7UCtr)
