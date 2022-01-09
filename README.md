@@ -9,11 +9,14 @@ First, [**Click Here**](https://cdn.discordapp.com/attachments/92939386598158749
 Secondly, Place the **Start.js** file in your bot's directory, Like this.
 ![Image](https://cdn.discordapp.com/attachments/929393865981587496/929688129835769936/unknown.png)
 
-## How To Use
+## How To Install
 
-Instead of using **Node Bot.js** in cmd, Start your bot with **Node Start.js** and let the script install/check/update the modifications.
+Instead of using **Node Bot.js** in cmd, Use **Node Start.js** and let the script install/check/update the modifications.
 
 ![image](https://user-images.githubusercontent.com/97385822/148692706-570eb535-16b8-406b-b3ca-657598f50015.png)
 
-Once the **Installation/Update** has finished, Start your bot by simply typing **Node Start.js**
+## How To Use
+
+After the **Installation/Update** Has finished, Start your bot by simply using **Node Start.js**
+
 ![Image](https://cdn.discordapp.com/attachments/929393865981587496/929688634381201459/unknown.png)
