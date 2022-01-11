@@ -21,6 +21,8 @@
 ## Reinstallation
 
 > If you have mistakenly replaced a modded file, you can simply delete the file called "DBME.info" and the next time you start your bot with **node start.js**, DBM-E will automatically install the latest version
+![image](https://user-images.githubusercontent.com/97385822/148900991-4786295b-caaa-4601-b0d3-e39b2e2c482f.png)
+
 
 ## How To Use
 
