@@ -16,7 +16,7 @@
 
 > Once that is done, Instead of using **Node Bot.js** in cmd, 
 > Use **Node Start.js** and let the script install/check/update the modifications.
-![image](https://user-images.githubusercontent.com/97385822/148692706-570eb535-16b8-406b-b3ca-657598f50015.png)
+![image](https://cdn.discordapp.com/attachments/886234967338786896/933279405600542730/unknown.png)
 
 ## How To Use
 
