@@ -10,7 +10,7 @@
 ## Preparation
 
 > Use **Npm i axios** since that's a required library by **DBM-E**
-![image](https://user-images.githubusercontent.com/97385822/148695309-59dca530-bc02-4b42-9c07-d28421a98821.png)
+![image](https://cdn.discordapp.com/attachments/886234967338786896/933278405363900426/index.png)
 
 ## Installation
 
