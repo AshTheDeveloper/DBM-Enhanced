@@ -9,7 +9,7 @@
 
 ## Preparation
 
-> Use **Npm i download** since that's a required library by **DBM-E**
+> Use **Npm i axios** since that's a required library by **DBM-E**
 ![image](https://user-images.githubusercontent.com/97385822/148695309-59dca530-bc02-4b42-9c07-d28421a98821.png)
 
 ## Installation
@@ -17,12 +17,6 @@
 > Once that is done, Instead of using **Node Bot.js** in cmd, 
 > Use **Node Start.js** and let the script install/check/update the modifications.
 ![image](https://user-images.githubusercontent.com/97385822/148692706-570eb535-16b8-406b-b3ca-657598f50015.png)
-
-## Reinstallation
-
-> If you have mistakenly replaced a modded file, you can simply delete the file called **DBME.info** and the next time you start your bot with **Node start.js**, DBM-E will automatically install the latest version
-![image](https://user-images.githubusercontent.com/97385822/148901121-a9905d50-c538-405c-861a-96b0a68a78f6.png)
-
 
 ## How To Use
 
