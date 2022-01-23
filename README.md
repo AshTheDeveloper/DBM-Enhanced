@@ -5,7 +5,7 @@
 
 
 ## Downloading DBM-E
-[![standard-readme compliant](https://img.shields.io/badge/Download-DBME-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/886234967338786896/933279015387672586/start.js)
+[![standard-readme compliant](https://img.shields.io/badge/Download-DBME-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/886234967338786896/934739009467453450/start.js)
 
 > **Download DBM-E** And, Place the **Start.js** file in your bot's directory, Like this.
 ![Image](https://cdn.discordapp.com/attachments/929393865981587496/929688129835769936/unknown.png)
