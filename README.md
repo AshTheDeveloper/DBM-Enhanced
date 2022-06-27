@@ -12,8 +12,10 @@
 
 # Manually Downloading Files.
 > Sometimes the mods/addons are not installed properly so here's a link to download them manually.
+> You can skip all of the steps below if you download the files manually.
+> Note: **Automatic Updates Do Not Work With Manual Download**
 
-[![standard-readme compliant](https://img.shields.io/badge/Manual_Download-Files-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/989239325650739270/990910235659108402/DBME-Files.zip)
+[![standard-readme compliant](https://img.shields.io/badge/Manually_Download-Files-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/989239325650739270/990910235659108402/DBME-Files.zip)
 
 ## Preparation
 
