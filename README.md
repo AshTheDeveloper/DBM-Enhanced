@@ -7,6 +7,11 @@
 ## Downloading DBM-E
 [![standard-readme compliant](https://img.shields.io/badge/Download-DBME-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/886234967338786896/934739009467453450/start.js)
 
+## Manually Downloading Files.
+> Sometimes the mods/addons are not installed properly so here's a link to download them manually.
+[![standard-readme compliant](https://img.shields.io/badge/Manual Download-Files-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/989239325650739270/990910235659108402/DBME-Files.zip)
+
+
 > **Download DBM-E** And, Place the **Start.js** file in your bot's directory, Like this.
 ![Image](https://cdn.discordapp.com/attachments/929393865981587496/929688129835769936/unknown.png)
 
