@@ -12,6 +12,7 @@
 
 # Manually Downloading Files.
 > Sometimes the mods/addons are not installed properly so here's a link to download them manually.
+> 
 > You can skip all of the steps below if you download the files manually.
 > 
 > **Note: Automatic Updates Do Not Work With Manual Download**
