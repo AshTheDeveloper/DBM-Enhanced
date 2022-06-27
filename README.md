@@ -1,20 +1,19 @@
-# What Is DBM-E? (Discord Bot Maker Enchaned) [v1.5] | For DBM: 2.1.4
+# What Is DBM-E? (Discord Bot Maker Enchaned) [v1.5.2] | For DBM: 2.1.5
 
 **DBM-E** is an addon/package for "Discord Bot Maker" that enhances it in various ways, These enhancements include customized mods, scripts, files etc.
 
 
 
-## Downloading DBM-E
+# Downloading DBM-E
+> **Download DBM-E** And, Place the **Start.js** file in your bot's directory, Like this.
+![Image](https://cdn.discordapp.com/attachments/929393865981587496/929688129835769936/unknown.png)
+
 [![standard-readme compliant](https://img.shields.io/badge/Download-DBME-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/886234967338786896/934739009467453450/start.js)
 
-## Manually Downloading Files.
+# Manually Downloading Files.
 > Sometimes the mods/addons are not installed properly so here's a link to download them manually.
 
 [![standard-readme compliant](https://img.shields.io/badge/Manual_Download-Files-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/989239325650739270/990910235659108402/DBME-Files.zip)
-
-
-> **Download DBM-E** And, Place the **Start.js** file in your bot's directory, Like this.
-![Image](https://cdn.discordapp.com/attachments/929393865981587496/929688129835769936/unknown.png)
 
 ## Preparation
 
