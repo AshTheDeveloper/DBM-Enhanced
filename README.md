@@ -18,4 +18,4 @@ Download Link: https://cdn.discordapp.com/attachments/989239325650739270/9909102
 ### How To Use
 
 > Once you've dragged the files into your bot's directory, please restart your discord bot maker once to start using the new modifications
-![image](https://cdn.discordapp.com/attachments/916317602685546506/1011289808548675584/unknown.png)
+![image](https://cdn.discordapp.com/attachments/916317602685546506/1011290348485615686/unknown.png)
