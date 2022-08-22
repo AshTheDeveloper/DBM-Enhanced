@@ -14,6 +14,11 @@ Download Link: https://cdn.discordapp.com/attachments/989239325650739270/9909102
 
 > Drag all the files in side the zip into your bot's directory like this
 ![image](https://cdn.discordapp.com/attachments/916317602685546506/1011289457611251802/unknown.png)
+![image](https://cdn.discordapp.com/attachments/916317602685546506/1011290474205675542/unknown.png)
+
+
+
+
 
 ### How To Use
 
