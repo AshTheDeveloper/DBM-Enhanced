@@ -12,7 +12,7 @@ Download Link: https://cdn.discordapp.com/attachments/989239325650739270/9909102
 
 ### Installation
 
-> Drag all the files in side the zip into your bot's directory like this
+> Drag all the files in side the zip into your bot's directory like this. **It is recommended to backup your Actions Folder & Bot.js**
 
 ![image](https://cdn.discordapp.com/attachments/916317602685546506/1011289457611251802/unknown.png)
 
