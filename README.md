@@ -1,4 +1,4 @@
-## What Is DBM-E? (Discord Bot Maker Enchaned) [v1.5.2] | For DBM: 2.1.5
+## What Is DBM-E? (Discord Bot Maker Enchaned) [v1.6] | For DBM: __2.1.5__
 
 > **DBM-E** is an addon/package for "Discord Bot Maker" that enhances it in various ways, 
 > These enhancements include customized **Mods, Scripts, Files Etc.**
