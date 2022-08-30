@@ -6,7 +6,7 @@
 
 
 ## Downloading DBM-E
-[![standard-readme compliant](https://img.shields.io/badge/Get-DBME-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/886234967338786896/1014116753237889034/DBME-Files.zip)
+[![standard-readme compliant](https://img.shields.io/badge/Get/Download-DBME-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/886234967338786896/1014116753237889034/DBME-Files.zip)
 
 Download Link: https://cdn.discordapp.com/attachments/886234967338786896/1014116753237889034/DBME-Files.zip
 
