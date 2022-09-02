@@ -3,7 +3,7 @@
 > **DBM-E** is an addon/package for "Discord Bot Maker" that enhances it in various ways, 
 > These enhancements include customized **Mods, Scripts, Files Etc.**
 
-
+Update Logs: https://pastebin.com/zAiuWqzg
 
 ## Downloading DBM-E
 [![standard-readme compliant](https://img.shields.io/badge/Get/Download-DBME-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/886234967338786896/1015127562885795920/DBME-Files.zip)
@@ -18,12 +18,9 @@ Download Link: https://cdn.discordapp.com/attachments/886234967338786896/1015127
 
 ![image](https://cdn.discordapp.com/attachments/916317602685546506/1011290474205675542/unknown.png)
 
-
-
-
-
 ### How To Use
 
 > Once you've dragged the files into your bot's directory, **please restart your discord bot maker once to start using the new modifications**
 
 ![image](https://cdn.discordapp.com/attachments/916317602685546506/1011290348485615686/unknown.png)
+
