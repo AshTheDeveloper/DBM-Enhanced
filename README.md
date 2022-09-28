@@ -7,9 +7,9 @@
 Update Logs: https://pastebin.com/zAiuWqzg
 
 ## Downloading DBM-E
-[![standard-readme compliant](https://img.shields.io/badge/Get/Download-DBME-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/1019257446046376008/1021037392389484564/DBME-Files.zip)
+[![standard-readme compliant](https://img.shields.io/badge/Get/Download-DBME-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/1019257446046376008/1024737609425113180/DBME-Files.zip)
 
-Download Link: https://cdn.discordapp.com/attachments/1019257446046376008/1021037392389484564/DBME-Files.zip
+Download Link: https://cdn.discordapp.com/attachments/1019257446046376008/1024737609425113180/DBME-Files.zip
 
 ### Installation
 
