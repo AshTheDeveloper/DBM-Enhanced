@@ -4,7 +4,7 @@
 
 
 ## Status: Updated & Working.
-#### Update Logs: https://pastebin.com/zAiuWqzg
+## Update Logs: https://pastebin.com/zAiuWqzg
 
 
 
