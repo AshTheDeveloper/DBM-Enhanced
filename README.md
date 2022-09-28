@@ -3,7 +3,7 @@
 > These enhancements include customized **Mods, Scripts, Files Etc.**
 
 
-## Status: Updated & Working. | Update Logs: https://pastebin.com/zAiuWqzg
+## Status: Up To Date & Working | Update Logs: https://pastebin.com/zAiuWqzg
 
 
 ## Downloading DBM-E
