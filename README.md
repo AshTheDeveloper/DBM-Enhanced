@@ -21,6 +21,8 @@ Download Link: https://cdn.discordapp.com/attachments/1019257446046376008/102541
 
 ### How To Use
 
-> Once you've dragged the files into your bot's directory, **please restart your discord bot maker once to start using the new modifications**
+> Once you've dragged the files into your bot's directory, please disable **Automatically Update Bot.js and restart your 'Discord Bot Maker' to see the changes.**
 
 ![image](https://cdn.discordapp.com/attachments/916317602685546506/1011290348485615686/unknown.png)
+![image](https://cdn.discordapp.com/attachments/634311263765397504/1074172219397247106/image.png)
+
